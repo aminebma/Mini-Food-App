@@ -229,24 +229,24 @@ children: <Widget>[
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
                     _buttonBuilder('Garantita'.toUpperCase(), Icons.sentiment_satisfied),
-                    _buttonBuilder('TEA'.toUpperCase(), Icons.local_cafe),
-                    _buttonBuilder('cola'.toUpperCase(), Icons.local_drink),
+                    _buttonBuilder('Tea'.toUpperCase(), Icons.local_cafe),
+                    _buttonBuilder('Cola'.toUpperCase(), Icons.local_drink),
                   ],
                 ),
                 Row(
                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
-                    _buttonBuilder('Garantita'.toUpperCase(), Icons.sentiment_satisfied),
-                    _buttonBuilder('TEA'.toUpperCase(), Icons.local_cafe),
-                    _buttonBuilder('cola'.toUpperCase(), Icons.local_drink),
+                    _buttonBuilder('Pizza'.toUpperCase(), Icons.local_pizza),
+                    _buttonBuilder('Coffee'.toUpperCase(), Icons.local_cafe),
+                    _buttonBuilder('Sprite'.toUpperCase(), Icons.local_drink),
                   ],
                 ),
                 Row(
                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
-                    _buttonBuilder('Garantita'.toUpperCase(), Icons.sentiment_satisfied),
-                    _buttonBuilder('TEA'.toUpperCase(), Icons.local_cafe),
-                    _buttonBuilder('cola'.toUpperCase(), Icons.local_drink),
+                    _buttonBuilder('Burger'.toUpperCase(), Icons.fastfood),
+                    _buttonBuilder('Capuccino'.toUpperCase(), Icons.local_cafe),
+                    _buttonBuilder('Smoothie'.toUpperCase(), Icons.local_drink),
                   ],
                 )
               
